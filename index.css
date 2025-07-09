@@ -1,20 +1,36 @@
-h1 {
-  color: purple;
+html{
+  background-color: #e3e0cc;
 }
-ol {
-  background-color: blue;
-  color: white;
+
+body{
+  margin: 10% ;
+  border: 5px solid darkgrey;
+  background-color: #f0f0f0;
+  padding: 10%;
+  align-items: center;
+}
+
+
+h1 {
+  color: #9fa9a3;
+}
+#list {
+  background-color: #d9ecd0;
+  color: black;
+}
+#archive {
+  background-color: #c5d5c5;
+  color: black;
 }
 #submit {
-  background-color: aqua;
+  background-color: #8ca3a3;
   font-weight: bold;
-  color: darkgreen;
+  color: green;
 }
 
 button {
-  background-color: red;
+  background-color: rgb(255, 91, 91);
   color: white;
-  /* font-weight: bold; */
 }
 
 .done {

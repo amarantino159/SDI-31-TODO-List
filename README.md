@@ -1,11 +1,8 @@
 # SDI-31-TODO-List
 Make a HTML/JS/CSS todo list
 
-Requirements
+Welcome to our TODO List tracker!
 
-    In this application you will create a to-do list application that can do the following:
-        Users should be able to view all of the to-do tasks
-        Users should be able to add a to-do to the list of to-do tasks
-        Users should be able to mark a task as completed by crossing it out on click
-        Users should be able to remove to-do tasks by removing those elements from the DOM
-        The page should be aesthetically pleasing (aka be styled)
+Please input your items one at a time in the text box and then hit the 'add item' button when ready to add them to the list.
+
+From the list, each item has 2 buttons, click the check box to cross out an item and click it again to undo. Then if you want to move it to the archive just hit the red X.
