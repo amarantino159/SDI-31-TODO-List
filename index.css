@@ -5,3 +5,18 @@ ol {
   background-color: blue;
   color: white;
 }
+#submit {
+  background-color: aqua;
+  font-weight: bold;
+  color: darkgreen;
+}
+
+button {
+  background-color: red;
+  color: white;
+  /* font-weight: bold; */
+}
+
+.done {
+  text-decoration: line-through;
+}
